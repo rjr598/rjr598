@@ -24,4 +24,3 @@ _(More tools coming soon)_
 
 ## Tech Interests
 Python - SQL - CLI Tools - Machine Learning - Embedded Systems - Networking
- **rjr598/rjr598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
